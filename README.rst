@@ -1,11 +1,11 @@
 python-linkat
 =============
 
-.. image:: https://pypip.in/version/linkat/badge.png
+.. image:: https://img.shields.io/pypi/v/linkat.svg
     :target: https://pypi.python.org/pypi/linkat/
     :alt: Latest Version
 
-.. image:: https://pypip.in/license/linkat/badge.png
+.. image:: https://img.shields.io/pypi/l/linkat.svg
     :target: https://pypi.python.org/pypi/linkat/
     :alt: License
 
